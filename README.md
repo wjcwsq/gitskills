@@ -1,2 +1,3 @@
 # gitskills
-clone one
+0000000clone one
+add local
