@@ -1,4 +1,4 @@
 # gitskills
 0000000clone one
 add local
-creating a new branch is quick.
+creating a new branch is quick & simple.
